@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Behavioral Monitor",
+  "description": "A clinical CBT/DBT behavioral tracking app with a brutalist UI for offline logging of avoidance, emotional dysregulation, and rumination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
